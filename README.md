@@ -13,7 +13,7 @@ I am a passionate **Information Technology Student** and aspiring **Software Eng
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap |
+| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap, TailwindCSS, React, React Native |
 | **Backend & Frameworks** | PHP, Python, Flask, Flutter |
 | **Databases & Tools** | MySQL, Git, GitHub, VS Code |
 
@@ -29,7 +29,12 @@ I am a passionate **Information Technology Student** and aspiring **Software Eng
 ### 📊 GitHub Stats
 
 🏁 ![Tim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=timbibat&show_icons=true&theme=visualstudio&cache=1)
+
 🔥 ![Streak Streak](https://github-readme-streak-stats.herokuapp.com/?user=timbibat&theme=visualstudio&cache=1)
+
+👁️ ![Profile Views](https://komarev.com/ghpvc/?username=timbibat&color=005fb8&style=flat-square&label=PROFILE+VIEWS)
+
+🏆 ![My Trophies](https://github-profile-trophy.vercel.app/?username=timbibat&theme=visualstudio&column=4)
 
 ---
 
