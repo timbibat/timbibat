@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  👁️ <img src="https://komarev.com/ghpvc/?username=timbibat&color=005fb8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
+  🏆 <img src="https://github-profile-trophy.vercel.app/?username=timbibat&theme=visualstudio&column=4" alt="My Trophies">
 </p>
 
-<p align="center">
-  🏆 <img src="https://github-profile-trophy.vercel.app/?username=timbibat&theme=visualstudio&column=4" alt="My Trophies">
+<p align="start">
+  👁️ <img src="https://komarev.com/ghpvc/?username=timbibat&color=005fb8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
 </p>
