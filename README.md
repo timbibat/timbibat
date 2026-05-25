@@ -28,8 +28,8 @@ I am a passionate **Information Technology Student** and aspiring **Software Eng
 
 ### 📊 GitHub Stats
 
-🏁 ![Tim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=visualstudio)
-🔥 ![Streak Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=visualstudio)
+🏁 ![Tim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=timbibat&show_icons=true&theme=visualstudio&cache=1)
+🔥 ![Streak Streak](https://github-readme-streak-stats.herokuapp.com/?user=timbibat&theme=visualstudio&cache=1)
 
 ---
 
