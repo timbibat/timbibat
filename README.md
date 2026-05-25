@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Tim! 👋
 
-<!--
-**timbibat/timbibat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I am a passionate **Information Technology Student** and aspiring **Software Engineer / Full-Stack Developer** dedicated to building impactful, responsive, and user-centric web and mobile applications. I love solving complex problems, writing clean code, and continuously expanding my technical toolkit.
 
-Here are some ideas to get you started:
+- 🎓 Currently pursuing my Bachelor of Science in Information Technology (3rd Year)
+- 💡 Interested in Full-Stack Web Development, Mobile Apps, and Cybersecurity (CTFs & Digital Forensics)
+- ⚙️ Fun Fact: When I'm not coding, you can usually find me hitting the pavement for interval running or brainstorming unique game mechanics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap |
+| **Backend & Frameworks** | PHP, Python, Flask, Flutter |
+| **Databases & Tools** | MySQL, Git, GitHub, VS Code |
+
+---
+
+### 📈 Current Focus & Projects
+- 📱 Developing cross-platform mobile applications using **Flutter**.
+- 🌐 Building robust, responsive web systems with **Flask** and **Bootstrap**.
+- 🛡️ Leveling up my skills in **Information Security** and practicing for Capture The Flag (CTF) challenges.
+
+---
+
+### 📊 GitHub Stats
+
+🏁 ![Tim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=visualstudio)
+🔥 ![Streak Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=visualstudio)
+
+---
+
+### 🤝 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
+- 📧 [Email](mailto:your.email@example.com)
+
+"Strive for continuous improvement, one commit at a time." 🚀
