@@ -34,7 +34,7 @@ I am a passionate **Information Technology Student** and aspiring **Software Eng
 ---
 
 ### 🤝 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-- 📧 [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/timothy-bibat-5ab419182/)
+- 📧 [Email](mailto:timothybibat654@gmail.com)
 
 "Strive for continuous improvement, one commit at a time." 🚀
